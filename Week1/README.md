@@ -26,7 +26,6 @@ This assignment simulated a compromised server where an attacker hid evidence an
 
 ---
 
-A clean Week 2 title that matches the style of your Week 1 README is:
 
 ---
 
@@ -46,4 +45,3 @@ You resolved a multi‑layer network failure by fixing an invalid subnet mask, r
 
 ---
 
-If you want, I can format this into a polished Markdown file with spacing, emojis, and structure that matches your Week 1 README exactly.
