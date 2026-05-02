@@ -28,10 +28,6 @@ This assignment simulated a compromised server where an attacker hid evidence an
 
 A clean Week 2 title that matches the style of your Week 1 README is:
 
-## 🗂️ **Week 2 – Network Recovery, Protocol Analysis & Subnet Engineering**
-
-Here is the full set of Week 2 summaries with that title applied so you can drop this directly into a `Week2/README.md` file:
-
 ---
 
 ## 🗂️ **Week 2 – Network Recovery, Protocol Analysis & Subnet Engineering**
