@@ -21,7 +21,7 @@ This assignment involved analyzing a web server access log to identify potential
 
 ---
 
-## final_threat_report.txt — Forensic Recovery & Incident Cleanup
+## ⚡ final_threat_report.txt — Forensic Recovery & Incident Cleanup
 This assignment simulated a compromised server where an attacker hid evidence and broke file permissions. The task was to restore access to a locked directory, repair permissions, and extract critical log entries. Using `grep`, `sed`, and `awk`, the final output is a clean list of unique malicious IP addresses. This file represents the completed forensic report and shows skills in navigation, permission repair, and stream editing for incident response.
 
 ---
