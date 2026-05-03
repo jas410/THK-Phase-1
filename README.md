@@ -45,8 +45,6 @@ I resolved a multi‑layer network failure by fixing an invalid subnet mask, rem
 
 ---
 
-`portfolio/Week3/README.md`
-
 ---
 
 # 🗂️ **Week 3 – Python Automation, Log Forensics & System Auditing**
