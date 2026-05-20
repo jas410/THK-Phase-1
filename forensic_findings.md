@@ -1,7 +1,7 @@
 # FORENSIC FINDINGS REPORT (THE MALWARE AUTOPSY)
 
 ### WHO:
-* [Unable to complete due to WSL2 filesystem limitations.]
+* Unable to complete due to WSL2 filesystem limitations.
 
 ### WHAT:
 * [Memory analysis identified hidden process rootkit_beacon.exe (PID 4444]
