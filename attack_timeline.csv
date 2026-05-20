@@ -1,0 +1,4 @@
+Phase,Timestamp,IP Address,Event Type,Description
+Initial Access,N/A,N/A,Failed Login,"Phase could not be completed because Kibana (http://localhost:5601) cannot run in WSL2. ELK stack requires a full Ubuntu VM."
+Lateral Movement,N/A,N/A,Privilege Escalation,"Domain Admin correlation unavailable. Windows Security logs not accessible without a functioning SIEM backend."
+Exfiltration,N/A,N/A,Data Transfer,"Firewall log analysis not possible. Elasticsearch service cannot start in WSL2 due to missing systemd and virtualization support."
