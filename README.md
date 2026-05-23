@@ -68,7 +68,7 @@ I created a system auditor that detects unauthorized processes on a Linux server
 ---
 
 ## ⚡ **incident_response.py — Automated Threat Hunting & JSON Reporting (TLAB)**
-For this lab, I automated the extraction of attacker IPs from simulated brute‑force logs. I used subprocess and stream parsing to isolate malicious IPs and export a structured JSON threat report.
+#### For this lab, I automated the extraction of attacker IPs from simulated brute‑force logs. I used subprocess and stream parsing to isolate malicious IPs and export a structured JSON threat report.
 ---
 
 # 🗂️ **Week 4 – Infrastructure Hardening & Secure Virtual Environments**
