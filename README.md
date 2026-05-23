@@ -16,7 +16,7 @@ This week focused on learning how to operate a Linux system from the command lin
 #### I applied secure file permissions using chmod/chown and reinforced system‑hardening best practices
 ---
 
-## 🔎 threat_ips.txt — Log Filtering & Attack Detection
+## 🔎 **threat_ips.txt — Log Filtering & Attack Detection**
 #### I parsed web server logs with grep/awk to identify suspicious SQL injection attempts and extract attacker IPs.
 ---
 
