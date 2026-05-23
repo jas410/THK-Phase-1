@@ -13,15 +13,15 @@ This week focused on learning how to operate a Linux system from the command lin
 ---
 
 ## harden.sh — File Permissions & System Hardening
-Applied secure file permissions using chmod/chown and reinforced system‑hardening best practices
+#### Applied secure file permissions using chmod/chown and reinforced system‑hardening best practices
 ---
 
 ## threat_ips.txt — Log Filtering & Attack Detection
-Parsed web server logs with grep/awk to identify suspicious SQL injection attempts and extract attacker IPs.
+#### Parsed web server logs with grep/awk to identify suspicious SQL injection attempts and extract attacker IPs.
 ---
 
 ## ⚡ final_threat_report.txt — Forensic Recovery & Incident Cleanup
-Recovered access to restricted directories, repaired permissions, and produced a clean list of malicious IPs for the final report.
+#### Recovered access to restricted directories, repaired permissions, and produced a clean list of malicious IPs for the final report.
 
 ---
 
