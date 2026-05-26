@@ -85,7 +85,7 @@ Although I wasn’t able to fully complete the Week 6 labs due to not having acc
 
 Because I was working inside an Ubuntu playground environment rather than a true VM, I couldn’t execute the full practical components. The playground lacked support for systemd services, Docker Engine networking, UFW firewall rules, SSH daemon configuration, and root‑owned filesystem operations — all of which were required to complete the missions. However, I worked through each scenario conceptually, documented the correct commands, and gained a strong understanding of how to approach OSI‑layer troubleshooting, container diagnostics, and infrastructure hardening in a real environment.
 
-📁 **Week 10 – Full‑Scope Incident Response & Disk Forensics**
+# 📁 **Week 10 – Full‑Scope Incident Response & Disk Forensics**
 
 Although I wasn’t able to fully complete the Week 10 “Operation Phantom Pursuit” investigation, this week focused on learning how to perform a complete end‑to‑end incident response workflow inside an enterprise‑grade environment. The assignment combined SIEM log correlation, live triage on a quarantined host, chain‑of‑custody hashing, and deep disk forensics using The Sleuth Kit. I studied how to trace an attacker’s entry point through Kibana, identify active command‑and‑control processes on a compromised machine, generate cryptographic evidence hashes, and recover deleted malware from a raw disk image by extracting files directly from their inode records.
 
