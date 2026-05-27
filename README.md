@@ -85,7 +85,7 @@ Although I wasn’t able to fully complete the Week 6 labs due to not having acc
 
 Because I was working inside an Ubuntu playground environment rather than a true VM, I couldn’t execute the full practical components. The playground lacked support for systemd services, Docker Engine networking, UFW firewall rules, SSH daemon configuration, and root‑owned filesystem operations — all of which were required to complete the missions. However, I worked through each scenario conceptually, documented the correct commands, and gained a strong understanding of how to approach OSI‑layer troubleshooting, container diagnostics, and infrastructure hardening in a real environment.
 
-📁 **Week 7 – Enterprise Monitoring, SIEM Operations & Threat Correlation**
+# 📁 **Week 7 – Enterprise Monitoring, SIEM Operations & Threat Correlation**
 
 Although I wasn’t able to complete the Week 7 assignments, this week focused on learning how enterprise security teams use SIEM platforms to detect, investigate, and correlate threats across large environments. The labs introduced how to build index patterns, analyze log sources, pivot across events, and trace attacker activity through alerts, network telemetry, and host‑level artifacts. I also studied how SIEM tools support real‑time detection engineering, threat hunting workflows, and incident response escalation.
 
