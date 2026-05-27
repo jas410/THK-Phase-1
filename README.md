@@ -85,6 +85,13 @@ Although I wasn’t able to fully complete the Week 6 labs due to not having acc
 
 Because I was working inside an Ubuntu playground environment rather than a true VM, I couldn’t execute the full practical components. The playground lacked support for systemd services, Docker Engine networking, UFW firewall rules, SSH daemon configuration, and root‑owned filesystem operations — all of which were required to complete the missions. However, I worked through each scenario conceptually, documented the correct commands, and gained a strong understanding of how to approach OSI‑layer troubleshooting, container diagnostics, and infrastructure hardening in a real environment.
 
+📁 **Week 7 – Enterprise Monitoring, SIEM Operations & Threat Correlation**
+
+Although I wasn’t able to complete the Week 7 assignments, this week focused on learning how enterprise security teams use SIEM platforms to detect, investigate, and correlate threats across large environments. The labs introduced how to build index patterns, analyze log sources, pivot across events, and trace attacker activity through alerts, network telemetry, and host‑level artifacts. I also studied how SIEM tools support real‑time detection engineering, threat hunting workflows, and incident response escalation.
+
+I wasn’t able to complete the practical components because the SIEM environment required a persistent Ubuntu VM capable of running Docker Engine, systemd services, and the full ELK stack. At the time, I was working inside a temporary playground environment that could not host long‑running containers or maintain the SIEM state needed for log ingestion and correlation. Without a real VM, Kibana could not boot, the enterprise logs could not be indexed, and the alerting pipeline could not be accessed. However, I reviewed the full workflow conceptually and documented the correct steps for SIEM setup, alert investigation, and threat correlation.
+
+
 # 📁 **Week 10 – Full‑Scope Incident Response & Disk Forensics**
 
 Although I wasn’t able to fully complete the Week 10 “Operation Phantom Pursuit” investigation, this week focused on learning how to perform a complete end‑to‑end incident response workflow inside an enterprise‑grade environment. The assignment combined SIEM log correlation, live triage on a quarantined host, chain‑of‑custody hashing, and deep disk forensics using The Sleuth Kit. I studied how to trace an attacker’s entry point through Kibana, identify active command‑and‑control processes on a compromised machine, generate cryptographic evidence hashes, and recover deleted malware from a raw disk image by extracting files directly from their inode records.
