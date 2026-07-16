@@ -65,15 +65,8 @@ Aspiring **Cybersecurity Analyst / SOC Analyst / Detection Engineer / Junior Inc
 
 ## 📬 Let’s Connect  
 **GitHub:** github.com/jas410  
-**LinkedIn:** linkedin.com/in/jasmineadams410  
+**LinkedIn:** [linkedin.com/in/jasmineadams410  ](https://www.linkedin.com/in/jasmine-adams-4a845420b/)
 
 ---
 
-## 📁 Repository Structure  
-Each week contains:  
-- A dedicated **Artifact folder**  
-- A polished **README.md** summarizing objectives, skills, and outcomes  
-- Supporting scripts, reports, and evidence files  
-
-This portfolio is actively maintained as I continue advancing through TKH’s cybersecurity engineering track.
 
