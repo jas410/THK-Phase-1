@@ -1,14 +1,27 @@
-# 🗂️ **Week 2 – Network Recovery, Protocol Analysis & Subnet Engineering**
+# Week 2 — Network Recovery, Protocol Analysis & Subnet Engineering
 
-## 🛰️ **network_audit.txt — Network Interface Recovery & Routing**
-I restored connectivity on a headless Ubuntu system by diagnosing inactive network interfaces, assigning IP information, and rebuilding the default gateway route. 
+## Objective
+Strengthen core networking skills by diagnosing connectivity failures, repairing protocol issues, and analyzing subnet boundaries on a headless Linux system.
 
-## 🔐 **protocol_audit.txt — DNS Repair, Service Discovery & Protocol Analysis**
-I identified and corrected DNS poisoning by auditing `/etc/hosts`, restored proper name resolution, and used tools like `ss -tuln` and `curl -I` to uncover hidden services and analyze HTTP headers. 
+## What I Worked On
+- Restored network connectivity by activating interfaces, assigning IP details, and rebuilding the default gateway  
+- Identified and corrected DNS poisoning by auditing `/etc/hosts` and validating proper name resolution  
+- Discovered hidden services using tools such as `ss -tuln`, `curl -I`, and header inspection  
+- Analyzed a misconfigured `/26` subnet using binary breakdowns and `ipcalc` to determine correct network boundaries  
+- Repaired multi‑layer network failures by fixing subnet masks, removing malicious DNS overrides, and validating packet flow with `tcpdump`  
 
-## 🧮 **subnet_blueprint.txt — Subnet Boundary Analysis & Address Correction**
-I analyzed a misconfigured `/26` subnet that isolated the system from its gateway, used binary inspection and `ipcalc` to determine network boundaries, and corrected the subnet mask to restore reachability.
+## Artifacts
+- 🛰️ **network_audit.txt** — Network interface recovery, routing fixes, and gateway restoration  
+- 🔐 **protocol_audit.txt** — DNS repair, service discovery, and protocol behavior analysis  
+- 🧮 **subnet_blueprint.txt** — Subnet boundary inspection and corrected addressing plan  
+- ⚡ **tlab_report.txt** — Full remediation summary with packet‑level verification  
 
-## ⚡ **tlab_report.txt — Multi‑Layer Network Remediation & Packet‑Level Verification**
-I resolved a multi‑layer network failure by fixing an invalid subnet mask, removing malicious DNS overrides, restoring the default route, and capturing a full TCP three‑way handshake with `tcpdump` as forensic proof. 
+## Skills Demonstrated
+- Ability to diagnose and repair broken network interfaces  
+- Understanding of DNS behavior, poisoning indicators, and name‑resolution troubleshooting  
+- Experience analyzing ports, services, and HTTP headers for hidden or misconfigured components  
+- Proficiency in subnet math, CIDR boundaries, and address planning  
+- Hands‑on packet capture and verification using `tcpdump`  
 
+## Outcome
+Successfully restored full network functionality by correcting addressing errors, repairing DNS integrity, rebuilding routing paths, and validating connectivity through packet‑level analysis.
