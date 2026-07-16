@@ -1,10 +1,10 @@
 # 🌐 TKH Phase 1 — Cybersecurity Engineering Portfolio  
-A curated collection of hands‑on security engineering projects demonstrating my progression across system hardening, network defense, offensive security, digital forensics, and automation. This portfolio reflects real technical work completed in Linux environments, containerized networks, web applications, and multi‑layered security labs.
+Hands-on cybersecurity engineering portfolio demonstrating my progression across system hardening, network defense, offensive security, digital forensics, and automation. This portfolio reflects real technical work completed in Ubuntu, Google Shell, web applications, and multi‑layered security labs.
 
 ---
 
 ## 🔎 About Me  
-I’m a cybersecurity‑focused engineer with a strong foundation in both **offensive** and **defensive** security practices. I enjoy breaking systems to understand how they fail — and then rebuilding them with stronger, more resilient controls.
+I’m an IT professional with foundational cybersecurity experience in both **offensive** and **defensive** security practices. I enjoy breaking systems to understand how they fail — and then rebuilding them with stronger, more resilient controls.
 
 My work spans across:
 
@@ -59,7 +59,7 @@ My work spans across:
 ---
 
 ## 🎯 Career Objective  
-Aspiring **Cybersecurity Analyst / SOC Analyst / Detection Engineer / Junior Incident Responder** seeking to join a security‑driven organization. I bring hands‑on experience in network defense, log forensics, security automation, and application‑layer vulnerability testing — with a strong focus on practical, real‑world problem solving.
+I’m an IT professional looking to break into the tech field and grow my skills in troubleshooting, system setup, and helping people solve everyday technical issues. I enjoy learning how things work, fixing problems, and making technology easier for others to use. I’m excited to join a team where I can keep building my experience with hardware, software, and user support while growing into a long‑term IT career.
 
 ---
 
